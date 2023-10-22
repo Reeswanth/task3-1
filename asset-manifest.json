@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reeswanth/task3-1.git/static/css/main.073c9b0a.css",
+    "main.js": "/Reeswanth/task3-1.git/static/js/main.5d79dcd0.js",
+    "static/js/787.01eaab64.chunk.js": "/Reeswanth/task3-1.git/static/js/787.01eaab64.chunk.js",
+    "index.html": "/Reeswanth/task3-1.git/index.html",
+    "main.073c9b0a.css.map": "/Reeswanth/task3-1.git/static/css/main.073c9b0a.css.map",
+    "main.5d79dcd0.js.map": "/Reeswanth/task3-1.git/static/js/main.5d79dcd0.js.map",
+    "787.01eaab64.chunk.js.map": "/Reeswanth/task3-1.git/static/js/787.01eaab64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5d79dcd0.js"
+  ]
+}
